@@ -5,6 +5,7 @@
     "adorsk <adorsk@gmail.com>"
   ],
   "description": "Stub package for testing moduleType=[\"node\"]",
+  "moduleType": ["node"],
   "main": "myMain.js",
   "location": "src",
   "license": "MIT",
