@@ -1,0 +1,18 @@
+{
+  "name": "node-module-type-stub",
+  "version": "0.0.1",
+  "authors": [
+    "adorsk <adorsk@gmail.com>"
+  ],
+  "description": "Stub package for testing moduleType=[\"node\"]",
+  "main": "myMain.js",
+  "location": "src",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
